@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HOMEWORK5</string>
+    <string name="text">text</string>
+    <string name="plus">+1</string>
+    <string name="minus">-1</string>
+    <string name="count">0</string>
+
+</resources>
